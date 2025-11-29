@@ -27,7 +27,7 @@ Python-based overlay for Roblox that draws simple ESP boxes/health and provides 
 - `B`: Toggle aimbot on/off (status shown on overlay).
 - Hold right mouse button: Engage aim when enabled.
 
-## Configuration (edit `deep.py`)
+## Configuration (edit `main.py`)
 - Visual toggles: `DRAW_NAMES`, `DRAW_HEALTH`, `TEAM_CHECK`.
 - Timing/cache: `PLAYER_CACHE_INTERVAL`.
 - Colors: `COLOR_ENEMY`, `COLOR_HEALTH_*`, `COLOR_TEXT`.
