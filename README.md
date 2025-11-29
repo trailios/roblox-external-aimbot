@@ -1,4 +1,4 @@
-# Roblox ESP & Aimbot (deep.py)
+# Roblox ESP & Aimbot (main.py)
 
 Python-based overlay for Roblox that draws simple ESP boxes/health and provides a toggleable aimbot using live process memory reads. Runs a transparent pyglet window over the game and moves the mouse toward the closest target inside a user-defined FOV. Built for educational/testing purposes only - just a fun side project, not a primary tool.
 
