@@ -42,5 +42,5 @@ Python-based overlay for Roblox that draws simple ESP boxes/health and provides 
 Use responsibly and at your own risk. Interacting with game memory may violate game terms of service and could lead to enforcement actions. For educational/testing purposes only.
 
 ## Credits
-Original concept/codebase inspiration: https://github.com/BornPaster/roblox-external
-My mental health help: Chatgpt 5.1 MAX
+- Original concept/codebase inspiration: https://github.com/BornPaster/roblox-external
+- My mental health help: Chatgpt 5.1 MAX
